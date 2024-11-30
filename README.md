@@ -7,8 +7,8 @@ This project offers a dynamic and immersive exploration of the Austin housing ma
 
 # Dashboard Summary
 
-- It summarizes the property count, along with the maximum, minimum, average, and median values for house prices, living area, and lot size.
-
+- It provides a summary of the total property count, along with the maximum, minimum, average, and median values for house prices, living area, and lot size.
+  
 - It allows users to filter properties by home type, zipcode, build year, and features.
 
 - It offers an interactive map to effortlessly guide you in finding the ideal properties for your search.
